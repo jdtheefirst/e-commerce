@@ -2,6 +2,9 @@
 
 <div align="center">
   <h1>E-Commerce with Saleor Next.js Storefront</h1>
+  <p>
+    ## Intro
+This e-commerce platform, built with **Next.js 14** and **TypeScript**, offers a seamless online shopping experience. Users can browse products, add them to their cart, and complete purchases securely. The application features user authentication, product management, and order processing. Leveraging **GraphQL** for efficient data fetching, it connects to the Saleor cloud for dynamic content and scalability. Ideal for those looking to explore or contribute to modern web development practices.</p>
 </div>
 
 <br/>
