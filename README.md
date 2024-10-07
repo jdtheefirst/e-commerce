@@ -1,25 +1,13 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsaleor%2Fstorefront&env=NEXT_PUBLIC_SALEOR_API_URL&envDescription=Full%20Saleor%20GraphQL%20endpoint%20URL%2C%20eg%3A%20https%3A%2F%2Fstorefront1.saleor.cloud%2Fgraphql%2F&project-name=my-saleor-storefront&repository-name=my-saleor-storefront&demo-title=Saleor%20Next.js%20Storefront&demo-description=Starter%20pack%20for%20building%20performant%20e-commerce%20experiences%20with%20Saleor.&demo-url=https%3A%2F%2Fstorefront.saleor.io%2F&demo-image=https%3A%2F%2Fstorefront-d5h86wzey-saleorcommerce.vercel.app%2Fopengraph-image.png%3F4db0ee8cf66e90af)
-[![Storefront Demo](https://img.shields.io/badge/VIEW%20DEMO-DFDFDF?style=for-the-badge)](https://storefront.saleor.io)
-
 ![Nextjs Storefront](./public/screenshot.png)
 
 <div align="center">
-  <h1>Saleor Next.js Storefront</h1>
-  Starter pack for building performant e-commerce experiences with <a href="https://github.com/saleor/saleor">Saleor</a>.
-</div>
-
-<div align="center">
-  <a href="https://saleor.io/">Website</a>
-  <span> • </span>
-  <a href="https://docs.saleor.io/docs/3.x">Docs</a>
-  <span> • </span>
-  <a href="https://github.com/orgs/saleor/projects/45/views/2">Roadmap</a>
-  <span> • </span>
-  <a href="https://twitter.com/getsaleor">Twitter</a>
-  <span> • </span>
-  <a href="https://discord.gg/H52JTZAtSH">Discord</a>
+  <h1>E-Commerce with Saleor Next.js Storefront</h1>
+  <p>
+    ## Intro
+This e-commerce platform, built with **Next.js 14** and **TypeScript**, offers a seamless online shopping experience. Users can browse products, add them to their cart, and complete purchases securely. The application features user authentication, product management, and order processing. Leveraging **GraphQL** for efficient data fetching, it connects to the Saleor cloud for dynamic content and scalability. Ideal for those looking to explore or contribute to modern web development practices.</p>
 </div>
 <br/>
+
 <div align="center">
 
 [![Storefront Roadmap](https://img.shields.io/badge/ROADMAP-EFEFEF?style=for-the-badge)](https://github.com/orgs/saleor/projects/45/views/2)
@@ -27,9 +15,8 @@
 
 </div>
 
-## Intro
-
-This e-commerce platform, built with **Next.js 14** and **TypeScript**, offers a seamless online shopping experience. Users can browse products, add them to their cart, and complete purchases securely. The application features user authentication, product management, and order processing. Leveraging **GraphQL** for efficient data fetching, it connects to the Saleor cloud for dynamic content and scalability. Ideal for those looking to explore or contribute to modern web development practices.
+> [!TIP]
+> Questions or issues? Check our [discord](https://discord.gg/H52JTZAtSH) channel for help.
 
 ## Features
 
@@ -42,7 +29,6 @@ This e-commerce platform, built with **Next.js 14** and **TypeScript**, offers a
 
 **Global:**
 
-- Channel switcher and Geo detection (coming soon)
 - Dynamic menu
 - Hamburger menu
 - SEO data
