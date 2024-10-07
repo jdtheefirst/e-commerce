@@ -19,9 +19,7 @@
   <span> • </span>
   <a href="https://discord.gg/H52JTZAtSH">Discord</a>
 </div>
-
 <br/>
-
 <div align="center">
 
 [![Storefront Roadmap](https://img.shields.io/badge/ROADMAP-EFEFEF?style=for-the-badge)](https://github.com/orgs/saleor/projects/45/views/2)
@@ -29,8 +27,9 @@
 
 </div>
 
-> [!TIP]
-> Questions or issues? Check our [discord](https://discord.gg/H52JTZAtSH) channel for help.
+## Intro
+
+This e-commerce platform, built with **Next.js 14** and **TypeScript**, offers a seamless online shopping experience. Users can browse products, add them to their cart, and complete purchases securely. The application features user authentication, product management, and order processing. Leveraging **GraphQL** for efficient data fetching, it connects to the Saleor cloud for dynamic content and scalability. Ideal for those looking to explore or contribute to modern web development practices.
 
 ## Features
 
@@ -73,6 +72,7 @@
 ## Quickstart
 
 ### 1. Create Saleor backend instance
+
 To quickly get started with the backend, use a free developer account at [Saleor Cloud](https://cloud.saleor.io/?utm_source=storefront&utm_medium=github).
 
 Alternatively you can [run Saleor locally using docker](https://docs.saleor.io/docs/3.x/setup/docker-compose?utm_source=storefront&utm_medium=github).
@@ -96,6 +96,7 @@ saleor storefront create --url https://{SALEOR_HOSTNAME}/graphql/
 #### [Option 2] Manual install
 
 Clone repository:
+
 ```bash
 git clone https://github.com/saleor/storefront.git
 ```
@@ -113,7 +114,6 @@ Then, [install `pnpm`](https://pnpm.io/installation) and run the following comma
 ```bash
 pnpm i
 ```
-
 
 ## Payments
 
@@ -149,4 +149,3 @@ pnpm run generate
 ### Preview content changes instantly (Draft Mode)
 
 Visit `http://{your-host}/api/draft` to enable cookies that disable caching to preview catalog and content changes instantly. [Learn more about the Draft Mode in Next.js docs.](https://nextjs.org/docs/app/building-your-application/configuring/draft-mode)
-
